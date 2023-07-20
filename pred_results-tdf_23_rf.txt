@@ -1,0 +1,513 @@
+--------- Etape 1 --------- 
+Départ : Bilbao 
+Arrivé : Bilbao 
+Distance : 182.0 
+Dénivelé : 3221 
+1 - tadej-pogacar **** 
+2 - jonas-vingegaard-rasmussen **** 
+3 - enric-mas **** 
+4 - jai-hindley **** 
+5 - guillaume-martin **** 
+6 - egan-bernal ** 
+7 - adam-yates **** 
+8 - thomas-pidcock ** 
+9 - neilson-powless *** 
+10 - mikel-landa **** 
+-------------------------------------------------
+--------- Etape 2 --------- 
+Départ : Vitoria-Gasteiz 
+Arrivé : San Sébastián 
+Distance : 208.9 
+Dénivelé : 2949 
+1 - tadej-pogacar **** 
+2 - biniam-girmay ** 
+3 - romain-bardet **** 
+4 - wout-van-aert *** 
+5 - egan-bernal ** 
+6 - neilson-powless *** 
+7 - guillaume-martin **** 
+8 - jonas-vingegaard-rasmussen **** 
+9 - patrick-konrad *** 
+10 - tobias-halland-johannessen * 
+-------------------------------------------------
+--------- Etape 3 --------- 
+Départ : Amorebieta-Etxano 
+Arrivé : Bayonne 
+Distance : 193.5 
+Dénivelé : 2667 
+1 - tadej-pogacar **** 
+2 - biniam-girmay ** 
+3 - wout-van-aert *** 
+4 - romain-bardet **** 
+5 - david-gaudu *** 
+6 - egan-bernal ** 
+7 - jonas-vingegaard-rasmussen **** 
+8 - thomas-pidcock ** 
+9 - neilson-powless *** 
+10 - adam-yates **** 
+-------------------------------------------------
+--------- Etape 4 --------- 
+Départ : Dax 
+Arrivé : Nogaro 
+Distance : 181.8 
+Dénivelé : 1427 
+1 - fabio-jakobsen ** 
+2 - jasper-philipsen * 
+3 - wout-van-aert *** 
+4 - bryan-coquard * 
+5 - mads-pedersen * 
+6 - dylan-groenewegen * 
+7 - jasper-stuyven *** 
+8 - biniam-girmay ** 
+9 - christophe-laporte ** 
+10 - egan-bernal ** 
+-------------------------------------------------
+--------- Etape 5 --------- 
+Départ : Pau 
+Arrivé : Laruns 
+Distance : 162.7 
+Dénivelé : 3652 
+1 - tadej-pogacar **** 
+2 - enric-mas **** 
+3 - egan-bernal ** 
+4 - romain-bardet **** 
+5 - jai-hindley **** 
+6 - carlos-rodriguez-cano **** 
+7 - guillaume-martin **** 
+8 - adam-yates **** 
+9 - jack-haig **** 
+10 - louis-meintjes **** 
+-------------------------------------------------
+--------- Etape 6 --------- 
+Départ : Tarbes 
+Arrivé : Cauterets-Cambasque 
+Distance : 144.9 
+Dénivelé : 3894 
+1 - jonas-vingegaard-rasmussen **** 
+2 - tadej-pogacar **** 
+3 - simon-yates *** 
+4 - jai-hindley **** 
+5 - egan-bernal ** 
+6 - romain-bardet **** 
+7 - louis-meintjes **** 
+8 - jack-haig **** 
+9 - adam-yates **** 
+10 - carlos-rodriguez-cano **** 
+-------------------------------------------------
+--------- Etape 7 --------- 
+Départ : Mont-de-Marsan 
+Arrivé : Bordeaux 
+Distance : 169.9 
+Dénivelé : 808 
+1 - fabio-jakobsen ** 
+2 - mark-cavendish * 
+3 - jasper-philipsen * 
+4 - jasper-stuyven *** 
+5 - wout-van-aert *** 
+6 - mads-pedersen * 
+7 - luca-mozzato * 
+8 - tobias-halland-johannessen * 
+9 - bryan-coquard * 
+10 - sam-welsford ** 
+-------------------------------------------------
+--------- Etape 8 --------- 
+Départ : Libourne 
+Arrivé : Limoges 
+Distance : 200.7 
+Dénivelé : 1996 
+1 - wout-van-aert *** 
+2 - tadej-pogacar **** 
+3 - biniam-girmay ** 
+4 - alexander-kristoff * 
+5 - luca-mozzato * 
+6 - jordi-meeus * 
+7 - egan-bernal ** 
+8 - jasper-philipsen * 
+9 - stefan-kung **** 
+10 - mads-pedersen * 
+-------------------------------------------------
+--------- Etape 9 --------- 
+Départ : Saint-Léonard-de-Noblat 
+Arrivé : Puy de Dôme 
+Distance : 182.4 
+Dénivelé : 3441 
+1 - tadej-pogacar **** 
+2 - jonas-vingegaard-rasmussen **** 
+3 - jai-hindley **** 
+4 - guillaume-martin **** 
+5 - egan-bernal ** 
+6 - enric-mas **** 
+7 - adam-yates **** 
+8 - david-gaudu *** 
+9 - louis-meintjes **** 
+10 - carlos-rodriguez-cano **** 
+-------------------------------------------------
+--------- Etape 10 --------- 
+Départ : Vulcania 
+Arrivé : Issoire 
+Distance : 167.2 
+Dénivelé : 3151 
+1 - tadej-pogacar **** 
+2 - romain-bardet **** 
+3 - simon-yates *** 
+4 - guillaume-martin **** 
+5 - carlos-rodriguez-cano **** 
+6 - egan-bernal ** 
+7 - thomas-pidcock ** 
+8 - valentin-madouas **** 
+9 - david-gaudu *** 
+10 - mikel-landa **** 
+-------------------------------------------------
+--------- Etape 11 --------- 
+Départ : Clermont-Ferrand 
+Arrivé : Moulins 
+Distance : 179.8 
+Dénivelé : 1873 
+1 - wout-van-aert *** 
+2 - tadej-pogacar **** 
+3 - biniam-girmay ** 
+4 - egan-bernal ** 
+5 - jasper-philipsen * 
+6 - bryan-coquard * 
+7 - jonas-vingegaard-rasmussen **** 
+8 - jai-hindley **** 
+9 - jasper-stuyven *** 
+10 - mads-pedersen * 
+-------------------------------------------------
+--------- Etape 12 --------- 
+Départ : Roanne 
+Arrivé : Belleville-en-Beaujolais 
+Distance : 168.8 
+Dénivelé : 3120 
+1 - tadej-pogacar **** 
+2 - romain-bardet **** 
+3 - simon-yates *** 
+4 - carlos-rodriguez-cano **** 
+5 - guillaume-martin **** 
+6 - egan-bernal ** 
+7 - thomas-pidcock ** 
+8 - valentin-madouas **** 
+9 - wout-van-aert *** 
+10 - mikel-landa **** 
+-------------------------------------------------
+--------- Etape 13 --------- 
+Départ : Châtillon-Sur-Chalaronne 
+Arrivé : Grand Colombier 
+Distance : 137.8 
+Dénivelé : 2413 
+1 - jonas-vingegaard-rasmussen **** 
+2 - tadej-pogacar **** 
+3 - tobias-halland-johannessen * 
+4 - david-gaudu *** 
+5 - romain-bardet **** 
+6 - sepp-kuss *** 
+7 - simon-yates *** 
+8 - egan-bernal ** 
+9 - carlos-rodriguez-cano **** 
+10 - jai-hindley **** 
+-------------------------------------------------
+--------- Etape 14 --------- 
+Départ : Annemasse 
+Arrivé : Morzine les Portes du Soleil 
+Distance : 151.8 
+Dénivelé : 4281 
+1 - romain-bardet **** 
+2 - simon-yates *** 
+3 - tadej-pogacar **** 
+4 - louis-meintjes **** 
+5 - adam-yates **** 
+6 - carlos-rodriguez-cano **** 
+7 - egan-bernal ** 
+8 - jai-hindley **** 
+9 - guillaume-martin **** 
+10 - enric-mas **** 
+-------------------------------------------------
+--------- Etape 15 --------- 
+Départ : Les Gets les Portes du Soleil 
+Arrivé : Saint-Gervais Mont-Blanc 
+Distance : 179.0 
+Dénivelé : 4483 
+1 - carlos-rodriguez-cano **** 
+2 - tadej-pogacar **** 
+3 - jonas-vingegaard-rasmussen **** 
+4 - adam-yates **** 
+5 - louis-meintjes **** 
+6 - enric-mas **** 
+7 - jai-hindley **** 
+8 - egan-bernal ** 
+9 - guillaume-martin **** 
+10 - romain-bardet **** 
+-------------------------------------------------
+--------- Etape 16 --------- 
+Départ : Passy 
+Arrivé : Combloux 
+Distance : 22.4 
+Dénivelé : 636 
+1 - tadej-pogacar **** 
+2 - jonas-vingegaard-rasmussen **** 
+3 - luke-durbridge *** 
+4 - stefan-kung **** 
+5 - adam-yates **** 
+6 - simon-yates *** 
+7 - tobias-halland-johannessen * 
+8 - sepp-kuss *** 
+9 - carlos-rodriguez-cano **** 
+10 - matteo-jorgenson *** 
+-------------------------------------------------
+--------- Etape 17 --------- 
+Départ : Saint-Gervais Mont-Blanc 
+Arrivé : Courchevel 
+Distance : 165.7 
+Dénivelé : 5399 
+1 - tadej-pogacar **** 
+2 - romain-bardet **** 
+3 - egan-bernal ** 
+4 - louis-meintjes **** 
+5 - carlos-rodriguez-cano **** 
+6 - jai-hindley **** 
+7 - enric-mas **** 
+8 - adam-yates **** 
+9 - guillaume-martin **** 
+10 - simon-yates *** 
+-------------------------------------------------
+--------- Etape 18 --------- 
+Départ : Moûtiers 
+Arrivé : Bourg-en-Bresse 
+Distance : 184.9 
+Dénivelé : 1216 
+1 - fabio-jakobsen ** 
+2 - jasper-philipsen * 
+3 - alexander-kristoff * 
+4 - wout-van-aert *** 
+5 - dylan-groenewegen * 
+6 - jasper-stuyven *** 
+7 - mark-cavendish * 
+8 - egan-bernal ** 
+9 - bryan-coquard * 
+10 - mads-pedersen * 
+-------------------------------------------------
+--------- Etape 19 --------- 
+Départ : Moirans-en-Montagne 
+Arrivé : Poligny 
+Distance : 172.8 
+Dénivelé : 1934 
+1 - wout-van-aert *** 
+2 - tadej-pogacar **** 
+3 - biniam-girmay ** 
+4 - alfred-wright ** 
+5 - egan-bernal ** 
+6 - tobias-halland-johannessen * 
+7 - bryan-coquard * 
+8 - jasper-stuyven *** 
+9 - thomas-pidcock ** 
+10 - mads-pedersen * 
+-------------------------------------------------
+--------- Etape 20 --------- 
+Départ : Belfort 
+Arrivé : Le Markstein 
+Distance : 133.5 
+Dénivelé : 3471 
+1 - simon-yates *** 
+2 - tadej-pogacar **** 
+3 - romain-bardet **** 
+4 - jack-haig **** 
+5 - jai-hindley **** 
+6 - egan-bernal ** 
+7 - jonas-vingegaard-rasmussen **** 
+8 - adam-yates **** 
+9 - guillaume-martin **** 
+10 - tobias-halland-johannessen * 
+-------------------------------------------------
+--------- Etape 21 --------- 
+Départ : Saint-Quentin-en-Yvelines 
+Arrivé : Paris 
+Distance : 115.1 
+Dénivelé : 577 
+1 - sam-welsford ** 
+2 - mark-cavendish * 
+3 - tadej-pogacar **** 
+4 - fabio-jakobsen ** 
+5 - stefan-kung **** 
+6 - jasper-stuyven *** 
+7 - simon-yates *** 
+8 - tobias-halland-johannessen * 
+9 - torstein-traeen *** 
+10 - egan-bernal ** 
+-------------------------------------------------
+Moyenne RMSE : 32.55101925449466 
+carlos-rodriguez-cano : 13.046710121227115 
+romain-bardet : 15.919566436209259 
+johan-esteban-chaves : 17.721039806479844 
+guillaume-martin : 20.31838281120732 
+nelson-oliveira : 21.180466952827565 
+enric-mas : 21.604998565119942 
+tadej-pogacar : 21.999652193038287 
+ben-o-connor : 22.106547219253503 
+mattias-skjelmose-jensen : 22.147468739596686 
+jai-hindley : 22.634137566089954 
+aurelien-paret-peintre : 23.162870285951705 
+gorka-izagirre : 23.371200660035996 
+louis-meintjes : 23.395970905545273 
+luis-leon-sanchez : 23.733742721263955 
+jonas-vingegaard-rasmussen : 23.77697345228282 
+stefan-kung : 23.987821431260567 
+valentin-madouas : 24.08664679064402 
+mikel-landa : 24.417571378666544 
+dylan-teuns : 24.433328749937672 
+jack-haig : 24.566523669810778 
+clement-berthet : 24.622544550232018 
+wilco-kelderman : 24.6618221363512 
+anthony-delaplace : 24.840973128621105 
+juan-pedro-lopez : 24.91030440366228 
+anthon-charmig : 25.006382820398688 
+emanuel-buchmann : 25.274002619591645 
+silvan-dillier : 25.33591037436547 
+bob-jungels : 25.35087619001274 
+jonas-gregaard : 25.499142211333712 
+vegard-stake-laengen : 26.00651352192285 
+thibaut-pinot : 26.067527880111584 
+matej-mohoric : 26.23414598295716 
+chris-hamilton : 26.2550298951201 
+lilian-calmejane : 26.525358862937093 
+pello-bilbao : 26.647527421796116 
+andrey-amador : 26.665502695394675 
+steff-cras : 27.04178849758944 
+ion-izagirre : 27.278867201417885 
+adam-yates : 27.44497636799563 
+rafal-majka : 27.656019891001424 
+hugo-houle : 27.666219702495077 
+nans-peters : 27.869778968657997 
+dries-devenyns : 27.89665111934141 
+corbin-strong : 27.931696213384395 
+richard-carapaz : 28.086992262179713 
+olivier-le-gac : 28.1202988254888 
+laurent-pichon : 28.211482008111822 
+christopher-juul-jensen : 28.283618693000616 
+stan-dewulf : 28.3878221556999 
+alexander-edmondson : 28.49623769046072 
+luke-durbridge : 28.53103625559501 
+neilson-powless : 28.56203584945389 
+tony-gallopin : 28.65977423879573 
+giulio-ciccone : 28.701275930193177 
+sepp-kuss : 28.755023739443207 
+matthew-dinham : 28.81984609840794 
+john-degenkolb : 28.914890798676982 
+edvald-boasson-hagen : 29.14264079781613 
+ruben-guerreiro : 29.229125178227804 
+quentin-pacher : 29.230448300812505 
+oliver-naesen : 29.33692634105436 
+julian-alaphilippe : 29.421326145371633 
+alex-aranburu : 29.66786293337128 
+jasper-stuyven : 29.68251561727966 
+matteo-jorgenson : 29.87196789323254 
+james-shaw : 30.57708616865087 
+tim-declercq : 30.606963560984674 
+anthony-perez : 30.63786848837608 
+clement-champoussin : 30.642391957340873 
+david-gaudu : 30.698029142198212 
+remi-cavagna : 30.706597099645986 
+alex-kirsch : 30.758151886977444 
+kevin-geniets : 30.76857366998028 
+wout-van-aert : 30.79457120382619 
+david-de-la-cruz : 30.839650457802545 
+ramon-sinkeldam : 31.018745659832334 
+michael-gogl : 31.40562481179405 
+simon-geschke : 31.47115595043532 
+torstein-traeen : 31.579186896948812 
+simon-yates : 31.60194436560246 
+matis-louvel : 31.65406820223288 
+antonio-pedrero : 31.689696007387 
+warren-barguil : 31.69237732465212 
+valentin-ferron : 31.698625136835805 
+tiesj-benoot : 31.71584420773825 
+michael-woods : 31.771888629495624 
+patrick-konrad : 31.81809440391145 
+harold-tejada : 31.96237982578049 
+maxim-van-gils : 32.32933215901498 
+kevin-vermaerke : 32.336328245529764 
+sam-welsford : 32.400874702136505 
+frederik-frison : 32.43011822771022 
+simon-guglielmi : 32.454718795473944 
+dion-smith : 32.515660067473156 
+daniel-felipe-martinez : 32.5325780815847 
+lars-van-den-berg : 32.56538102348841 
+adrien-petit : 32.60572179071267 
+aleksey-lutsenko : 32.642359560628186 
+felix-grossschartner : 33.01157198567632 
+guillaume-boivin : 33.02620516395384 
+rigoberto-uran : 33.168793557193574 
+elmar-reinders : 33.23312294590312 
+christophe-laporte : 33.38141411333922 
+nils-politt : 33.393256185012405 
+alfred-wright : 33.8704652814569 
+jenthe-biermans : 33.94868228748597 
+egan-bernal : 34.05008635904038 
+rui-costa : 34.06498620415677 
+yevgeniy-fedorov : 34.2146774452026 
+nathan-van-hooydonck : 34.33477930616878 
+jonas-abrahamsen : 34.33610623534332 
+jasper-de-buyst : 34.38762417429321 
+alberto-bettiol : 34.510242636549506 
+quinten-hermans : 34.52878823399704 
+fabio-jakobsen : 34.56678468999138 
+rasmus-tiller : 35.04184001196144 
+felix-gall : 35.08762111093619 
+biniam-girmay : 35.11680110533404 
+thomas-pidcock : 35.163507096346365 
+lawson-craddock : 35.28032883221746 
+omar-fraile : 35.299092644938355 
+pierre-latour : 35.5255284330528 
+axel-zingle : 35.69132990165854 
+gregor-muhlberger : 35.69821658223245 
+marco-haller : 35.84101105666629 
+yves-lampaert : 36.100253196422564 
+krists-neilands : 36.10276030517601 
+georg-zimmermann : 36.27457919156261 
+anthony-turgis : 36.28575091172664 
+chris-harper : 36.466047737448136 
+luka-mezgec : 36.51025200206286 
+nick-schultz : 36.63434381865262 
+daniel-oss : 36.88275200087062 
+nikias-arndt : 36.98669637752305 
+benoit-cosnefroy : 37.019130180286716 
+pascal-eenkhoorn : 37.15994972990996 
+kasper-asgreen : 37.177329018106974 
+dylan-van-baarle : 37.282448564785966 
+jonas-rickaert : 37.422977216068304 
+mikkel-bjerg : 37.545054486643 
+michael-morkov : 37.915635106472315 
+florian-vermeersch : 37.97024177322894 
+wout-poels : 37.97845438501706 
+alexander-kristoff : 38.109683095739456 
+nils-eekhoff : 38.38197465323442 
+jasper-philipsen : 38.4941450058298 
+jonathan-castroviejo : 38.92855259758292 
+victor-campenaerts : 38.93463993567084 
+simon-clarke : 38.96813009614253 
+matteo-trentin : 39.49227545418095 
+luca-mozzato : 39.70955207136414 
+ben-turner : 39.74009240792606 
+soren-waerenskjold : 39.76990518885051 
+bryan-coquard : 39.92723759947004 
+marc-soler : 39.963310303475325 
+alexis-renard : 40.02827664175522 
+victor-lafay : 40.32501416576808 
+michal-kwiatkowski : 40.87742728207108 
+tobias-halland-johannessen : 41.93493522055971 
+mathieu-burgaudeau : 42.26750873277321 
+quinn-simmons : 42.29714256285978 
+gianni-moscon : 42.35425373486884 
+mathieu-van-der-poel : 42.378328002734534 
+peter-sagan : 42.623773427582655 
+magnus-cort-nielsen : 43.239516714054844 
+mike-teunissen : 43.253808134425434 
+soren-kragh-andersen : 43.55173721620523 
+jacopo-guarnieri : 43.94291305114377 
+dylan-groenewegen : 44.29121236309289 
+danny-van-poppel : 46.334986651791894 
+caleb-ewan : 48.95651699096411 
+jordi-meeus : 49.61236516439753 
+cees-bol : 50.806999794114056 
+mads-pedersen : 51.340448236569564 
+mark-cavendish : 51.536025238393286 
+phil-bauhaus : 53.78226289539986 
